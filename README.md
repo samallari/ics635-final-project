@@ -1,1 +1,3 @@
-# ics635-final-project
+# Predicting Locations from Google Street View using Deep Learning
+
+The objective of this project is to generate a dataset of Google Street View images and develop a deep learning model capable of predicting geographic locations based solely on Google Street View images. Inspired by the game GeoGuessr, the task involves training a model to infer the approximate location of an image by analyzing visual cues such as terrain, architecture, vegetation, and road signs. 
